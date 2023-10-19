@@ -1,7 +1,12 @@
-### IntelliJ IDEA ###
+##############################
+## IntelliJ
+##############################
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
 
 ### Eclipse ###
 .apt_generated
